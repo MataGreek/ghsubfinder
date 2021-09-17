@@ -8,7 +8,7 @@
   just the "example.com" and the program will find the subdomains in this website.</p>
   
 <h1>SCREENSHOTS</h1>
-![Capture](https://user-images.githubusercontent.com/89479885/133817468-2473c93d-e54d-4008-b926-d24c9ad8367f.PNG)
+![Untitled](https://user-images.githubusercontent.com/89479885/133817892-e7ea8400-7805-43c2-b240-faf7a7ca853a.png)
 
 
   
