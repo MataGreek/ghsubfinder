@@ -7,6 +7,6 @@
 # USAGE
 
 cd Windows
-<p>pip install -r requirements.txt
-  python ghsubfinder.py
-  - Enter domain</p>
+<p>pip install -r requirements.txt</p>
+<p>python ghsubfinder.py</p>
+<p>- Enter domain</p>
